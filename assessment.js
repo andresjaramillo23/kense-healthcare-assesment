@@ -1,4 +1,4 @@
-const API_KEY = ""ak_41e5975b4a377226e59cfce985c2a0942f00b4525caf0e2e";
+const API_KEY = "ak_41e5975b4a377226e59cfce985c2a0942f00b4525caf0e2e";
 const BASE_URL = "https://assessment.ksensetech.com/api";
 
 const DEFAULT_HEADERS = {
