@@ -51,6 +51,9 @@ The solution includes:
 
 ## How to Run
 
-1. Create a `.env` file:
+1. Install dependencies if needed:
    ```env
-   API_KEY=your_api_key_here
+   npm install dotenv
+2. Run:
+   ```env
+   node assessment.js
