@@ -2,7 +2,7 @@ const API_KEY = "YOUR_API_KEY_HERE";
 const BASE_URL = "https://assessment.ksensetech.com/api";
 
 const DEFAULT_HEADERS = {
-  "x-api-key": API_KEY,
+  "x-api-key": "ak_41e5975b4a377226e59cfce985c2a0942f00b4525caf0e2e",
   "Content-Type": "application/json",
 };
 
